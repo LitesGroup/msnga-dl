@@ -4,4 +4,4 @@
 
 #### Evaluation of The following tools is in progress.
 1. [Apache MXNET](https://mxnet.apache.org)
-2. [Google Tensorflow](https://tensorflow.org)
+2. [Keras](https://keras.io/)
